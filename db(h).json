@@ -1,0 +1,71 @@
+{
+    "houses": [
+      {
+        "id": 1,
+        "landlord": "Kampala Holiday Homes",
+        "location": "Entebbe",
+        "bedrooms": 2,
+        "rent_per_month": 1200,
+        "landlord_phone": "555-555-1234",
+        "landlord_email": "johnsmith@example.com",
+        "image_link": "https://source.unsplash.com/random/500x300/?house",
+        "rent_id": 1
+      },
+      {
+        "id": 2,
+        "landlord": "KAMERUKA PROPERTY CONSULTANTS",
+        "location": "Namugongo Kampala",
+        "bedrooms": 3,
+        "rent_per_month": 1500,
+        "landlord_phone": "0700-156-600",
+        "landlord_email": "janedoe@example.com",
+        "image_link": "https://source.unsplash.com/random/500x300/?home",
+        "rent_id": 2
+      },
+      {
+        "id": 3,
+        "landlord": "Eco Housing",
+        "location": "Wakiso Kampala",
+        "bedrooms": 4,
+        "rent_per_month": 2000,
+        "landlord_phone": "555-555-9012",
+        "landlord_email": "bobjohnson@example.com",
+        "image_link": "https://source.unsplash.com/random/500x300/?real-estate",
+        "rent_id": 3
+      },
+      {
+        "id": 4,
+        "landlord": "Samantha Lee",
+        "location": "321 Maple Ave, Anytown, USA",
+        "bedrooms": 1,
+        "rent_per_month": 800,
+        "landlord_phone": "555-555-3456",
+        "landlord_email": "samanthalee@example.com",
+        "image_link": "https://source.unsplash.com/random/500x300/?property",
+        "rent_id": 4
+      },
+      {
+        "id": 5,
+        "landlord": "David Nguyen",
+        "location": "654 Cedar St, Anytown, USA",
+        "bedrooms": 3,
+        "rent_per_month": 1800,
+        "landlord_phone": "555-555-7890",
+        "landlord_email": "davidnguyen@example.com",
+        "image_link": "https://source.unsplash.com/random/500x300/?house-exterior",
+        "rent_id": 5
+      },
+      {
+        "id": 6,
+        "landlord": "Rachel Kim",
+        "location": "987 Pine Blvd, Anytown, USA",
+        "bedrooms": 2,
+        "rent_per_month": 1300,
+        "landlord_phone": "555-555-2345",
+        "landlord_email": "rachelkim@example.com",
+        "image_link": "https://source.unsplash.com/random/500x300/?house-interior",
+        "rent_id": 6
+      }
+    ]
+  }
+  
